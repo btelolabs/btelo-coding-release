@@ -1,10 +1,18 @@
-# Vibe Remote
+<p align="center">
+  <img src="logo.png" width="120" alt="Vibe Remote">
+</p>
 
-Remotely control [Claude Code](https://claude.ai/claude-code) to develop on your machine from anywhere.
+<h1 align="center">Vibe Remote</h1>
+
+<p align="center">
+  Remotely control <a href="https://claude.ai/claude-code">Claude Code</a> to develop on your machine from anywhere.
+  <br><br>
+  <a href="https://vibe-remote.com">Official Website</a> &nbsp;·&nbsp; <a href="https://github.com/ymzuiku/vibe-remote/releases">Downloads</a>
+</p>
+
+---
 
 Whether you're at home, in a cafe, or on your phone — Vibe Remote lets you manage and run AI coding sessions against directories on your local or remote machine.
-
-**Official Website:** [https://vibe-remote.com](https://vibe-remote.com)
 
 ## Prerequisites
 
