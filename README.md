@@ -7,7 +7,7 @@
 <p align="center">
   Remotely control <a href="https://claude.ai/claude-code">Claude Code</a> to develop on your machine from anywhere.
   <br><br>
-  <a href="https://vibe-remote.com">Official Website</a> &nbsp;·&nbsp; <a href="https://github.com/ymzuiku/vibe-remote/releases">Downloads</a>
+  <a href="https://vibe-remote.com">Official Website</a> &nbsp;·&nbsp; <a href="https://apps.apple.com/app/id6759615708">iOS App</a> &nbsp;·&nbsp; <a href="https://github.com/ymzuiku/vibe-remote/releases">Downloads</a>
 </p>
 
 ---
