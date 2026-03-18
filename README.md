@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" width="120" alt="Vibe Remote">
+  <img src="logo_v2.png" width="120" alt="Vibe Remote">
 </p>
 
 <h1 align="center">Vibe Remote</h1>
