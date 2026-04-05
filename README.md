@@ -100,6 +100,10 @@ vibe-remote --headless --connector myconnector --password mypassword
 
 ## Changelog
 
+### v1.2.1 — 2026-04-04
+
+Voice input overhaul, spring-animated waveform, QR scanner redesign, onboarding and UI polish
+
 ### v1.2.0 — 2026-04-02
 
 Voice input redesign with enhanced speech recognition and improved UX
@@ -107,10 +111,6 @@ Voice input redesign with enhanced speech recognition and improved UX
 ### v1.1.7 — 2026-04-02
 
 Add /clear slash command to input panel
-
-### v1.1.6 — 2026-04-02
-
-AskUserQuestion UI improvements and provider controls enhancements
 
 [View all changelogs →](changelogs/)
 
