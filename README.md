@@ -100,6 +100,10 @@ vibe-remote --headless --connector myconnector --password mypassword
 
 ## Changelog
 
+### v1.2.2 — 2026-04-04
+
+Multi-Device Access rebrand, Git panel improvements, UI polish
+
 ### v1.2.1 — 2026-04-04
 
 Voice input overhaul, spring-animated waveform, QR scanner redesign, onboarding and UI polish
@@ -107,10 +111,6 @@ Voice input overhaul, spring-animated waveform, QR scanner redesign, onboarding 
 ### v1.2.0 — 2026-04-02
 
 Voice input redesign with enhanced speech recognition and improved UX
-
-### v1.1.7 — 2026-04-02
-
-Add /clear slash command to input panel
 
 [View all changelogs →](changelogs/)
 
