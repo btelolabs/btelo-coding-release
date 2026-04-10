@@ -100,6 +100,10 @@ vibe-remote --headless --connector myconnector --password mypassword
 
 ## Changelog
 
+### v1.2.8 — 2026-04-10
+
+Fixed push notifications not arriving when the app is killed or the phone is locked; added auto-archive sessions toggle.
+
 ### v1.2.7 — 2026-04-10
 
 Silent background wake push for Live Activity completion while phone is locked
@@ -107,10 +111,6 @@ Silent background wake push for Live Activity completion while phone is locked
 ### v1.2.6 — 2026-04-07
 
 Blog view counter with Bloom filter deduplication
-
-### v1.2.5 — 2026-04-07
-
-Fix Codex/Copilot stdin hang, filter noisy stderr, macOS provider switcher fix, input bar perf improvements
 
 [View all changelogs →](changelogs/)
 
