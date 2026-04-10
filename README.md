@@ -100,6 +100,10 @@ vibe-remote --headless --connector myconnector --password mypassword
 
 ## Changelog
 
+### v1.2.6 — 2026-04-07
+
+Blog view counter with Bloom filter deduplication
+
 ### v1.2.5 — 2026-04-07
 
 Fix Codex/Copilot stdin hang, filter noisy stderr, macOS provider switcher fix, input bar perf improvements
@@ -107,10 +111,6 @@ Fix Codex/Copilot stdin hang, filter noisy stderr, macOS provider switcher fix, 
 ### v1.2.4 — 2026-04-06
 
 Fix AskUserQuestion interaction bugs and multi-device sync
-
-### v1.2.3 — 2026-04-06
-
-iOS performance optimizations and UI polish
 
 [View all changelogs →](changelogs/)
 
