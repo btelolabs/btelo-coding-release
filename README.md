@@ -100,6 +100,10 @@ vibe-remote --headless --connector myconnector --password mypassword
 
 ## Changelog
 
+### v1.2.11 — 2026-04-14
+
+Blog integration from btelo.com with voice input improvements
+
 ### v1.2.10 — 2026-04-11
 
 Auto-resume interrupted turns when a new message supersedes an in-progress task
@@ -107,10 +111,6 @@ Auto-resume interrupted turns when a new message supersedes an in-progress task
 ### v1.2.9 — 2026-04-11
 
 Fix duplicate push notifications when tasks complete
-
-### v1.2.8 — 2026-04-10
-
-Fixed push notifications not arriving when the app is killed or the phone is locked; added auto-archive sessions toggle.
 
 [View all changelogs →](changelogs/)
 
