@@ -1,8 +1,10 @@
 <p align="center">
-  <img src="logo_v2.png" width="120" alt="vibe-remote" />
+  <img src="logo_v2.png" width="120" alt="Btelo Coding" />
 </p>
 
-<h1 align="center">vibe-remote</h1>
+<h1 align="center">Btelo Coding</h1>
+
+<p align="center"><sub>formerly vibe-remote</sub></p>
 
 <p align="center">
   Native iPhone remote for AI coding on your machine.
