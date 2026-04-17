@@ -100,6 +100,10 @@ vibe-remote --headless --connector myconnector --password mypassword
 
 ## Changelog
 
+### v1.2.15 — 2026-04-17
+
+Btelo Pro subscription now activates within seconds of upgrade.
+
 ### v1.2.14 — 2026-04-16
 
 Sign in with Btelo.com and shared Pro subscription bridge.
@@ -107,10 +111,6 @@ Sign in with Btelo.com and shared Pro subscription bridge.
 ### v1.2.13 — 2026-04-14
 
 Simplified notification system — APNs only with silent Dynamic Island expansion
-
-### v1.2.12 — 2026-04-14
-
-Swipe to dismiss Dynamic Island banner.
 
 [View all changelogs →](changelogs/)
 
