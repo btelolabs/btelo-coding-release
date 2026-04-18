@@ -102,17 +102,17 @@ vibe-remote --headless --connector myconnector --password mypassword
 
 ## Changelog
 
+### v1.3.2 — 2026-04-17
+
+Claude chats stay in one long-lived process for far better memory and lower cost; interaction mode switches now take effect immediately.
+
 ### v1.3.1 — 2026-04-17
 
-Fix Claude Code losing conversation history between turns
+Claude sessions now remember the full conversation across turns.
 
 ### v1.3.0 — 2026-04-17
 
 Product renamed to Btelo Coding, with a site-wide dark theme overhaul, theme toggle, and iOS default dark mode.
-
-### v1.2.15 — 2026-04-17
-
-Btelo Pro subscription now activates within seconds of upgrade.
 
 [View all changelogs →](changelogs/)
 
