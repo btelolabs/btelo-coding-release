@@ -102,6 +102,10 @@ vibe-remote --headless --connector myconnector --password mypassword
 
 ## Changelog
 
+### v1.3.6 — 2026-04-18
+
+Gemini also runs as a long-lived chat process now, and follow-up messages sent during a running turn feel more natural.
+
 ### v1.3.5 — 2026-04-18
 
 Allow up to 6 concurrent AI chat processes.
@@ -109,10 +113,6 @@ Allow up to 6 concurrent AI chat processes.
 ### v1.3.4 — 2026-04-18
 
 Clean up leftover vibe-remote.com relay entries on the iOS app.
-
-### v1.3.3 — 2026-04-17
-
-Codex, Copilot, and OpenCode chats now stay in one long-lived process like Claude — faster, more reliable, lower cost across long conversations.
 
 [View all changelogs →](changelogs/)
 
