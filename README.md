@@ -102,6 +102,10 @@ vibe-remote --headless --connector myconnector --password mypassword
 
 ## Changelog
 
+### v1.3.4 — 2026-04-18
+
+Clean up leftover vibe-remote.com relay entries on the iOS app.
+
 ### v1.3.3 — 2026-04-17
 
 Codex, Copilot, and OpenCode chats now stay in one long-lived process like Claude — faster, more reliable, lower cost across long conversations.
@@ -109,10 +113,6 @@ Codex, Copilot, and OpenCode chats now stay in one long-lived process like Claud
 ### v1.3.2 — 2026-04-17
 
 Faster, more reliable Claude Code chats.
-
-### v1.3.1 — 2026-04-17
-
-Claude sessions now remember the full conversation across turns.
 
 [View all changelogs →](changelogs/)
 
