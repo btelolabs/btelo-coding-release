@@ -102,6 +102,10 @@ vibe-remote --headless --connector myconnector --password mypassword
 
 ## Changelog
 
+### v1.3.7 — 2026-04-18
+
+Stop button now cleanly ends the AI session, Compact actually reduces tokens, and you can keep 10 active chats warm.
+
 ### v1.3.6 — 2026-04-18
 
 Gemini also runs as a long-lived chat process now, and follow-up messages sent during a running turn feel more natural.
@@ -109,10 +113,6 @@ Gemini also runs as a long-lived chat process now, and follow-up messages sent d
 ### v1.3.5 — 2026-04-18
 
 Allow up to 6 concurrent AI chat processes.
-
-### v1.3.4 — 2026-04-18
-
-Clean up leftover vibe-remote.com relay entries on the iOS app.
 
 [View all changelogs →](changelogs/)
 
