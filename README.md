@@ -102,6 +102,10 @@ vibe-remote --headless --connector myconnector --password mypassword
 
 ## Changelog
 
+### v1.3.1 — 2026-04-17
+
+Fix Claude Code losing conversation history between turns
+
 ### v1.3.0 — 2026-04-17
 
 Product renamed to Btelo Coding, with a site-wide dark theme overhaul, theme toggle, and iOS default dark mode.
@@ -109,10 +113,6 @@ Product renamed to Btelo Coding, with a site-wide dark theme overhaul, theme tog
 ### v1.2.15 — 2026-04-17
 
 Btelo Pro subscription now activates within seconds of upgrade.
-
-### v1.2.14 — 2026-04-16
-
-Sign in with Btelo.com and shared Pro subscription bridge.
 
 [View all changelogs →](changelogs/)
 
