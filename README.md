@@ -102,17 +102,17 @@ vibe-remote --headless --connector myconnector --password mypassword
 
 ## Changelog
 
+### v1.3.3 — 2026-04-17
+
+Codex, Copilot, and OpenCode chats now stay in one long-lived process like Claude — faster, more reliable, lower cost across long conversations.
+
 ### v1.3.2 — 2026-04-17
 
-Claude chats stay in one long-lived process for far better memory and lower cost; interaction mode switches now take effect immediately.
+Faster, more reliable Claude Code chats.
 
 ### v1.3.1 — 2026-04-17
 
 Claude sessions now remember the full conversation across turns.
-
-### v1.3.0 — 2026-04-17
-
-Product renamed to Btelo Coding, with a site-wide dark theme overhaul, theme toggle, and iOS default dark mode.
 
 [View all changelogs →](changelogs/)
 
