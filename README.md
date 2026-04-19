@@ -102,6 +102,10 @@ vibe-remote --headless --connector myconnector --password mypassword
 
 ## Changelog
 
+### v1.3.8 — 2026-04-18
+
+Voice input works for long recordings, multi-device chat shows your messages instantly on every device, and the TUI shutdown feels less frozen.
+
 ### v1.3.7 — 2026-04-18
 
 Stop button now cleanly ends the AI session, Compact actually reduces tokens, and you can keep 10 active chats warm.
@@ -109,10 +113,6 @@ Stop button now cleanly ends the AI session, Compact actually reduces tokens, an
 ### v1.3.6 — 2026-04-18
 
 Gemini also runs as a long-lived chat process now, and follow-up messages sent during a running turn feel more natural.
-
-### v1.3.5 — 2026-04-18
-
-Allow up to 6 concurrent AI chat processes.
 
 [View all changelogs →](changelogs/)
 
