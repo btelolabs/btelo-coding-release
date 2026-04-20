@@ -102,6 +102,10 @@ vibe-remote --headless --connector myconnector --password mypassword
 
 ## Changelog
 
+### v1.3.10 — 2026-04-20
+
+The app and website now speak seven languages, and the documentation has been updated with clearer, more accurate guidance.
+
 ### v1.3.9 — 2026-04-20
 
 Fixed keyboard focus loss while typing during AI replies, and polished the input card border on Mac.
@@ -109,10 +113,6 @@ Fixed keyboard focus loss while typing during AI replies, and polished the input
 ### v1.3.8 — 2026-04-18
 
 Voice input works for long recordings, multi-device chat shows your messages instantly on every device, and the TUI shutdown feels less frozen.
-
-### v1.3.7 — 2026-04-18
-
-Stop button now cleanly ends the AI session, Compact actually reduces tokens, and you can keep 10 active chats warm.
 
 [View all changelogs →](changelogs/)
 
