@@ -102,6 +102,10 @@ vibe-remote --headless --connector myconnector --password mypassword
 
 ## Changelog
 
+### v1.3.13 — 2026-04-21
+
+New outgoing logs panel and quality improvements across sessions and connectivity.
+
 ### v1.3.12 — 2026-04-20
 
 Voice input in the Shepherd auto-reply and Cron creation screens now uses the modern waveform animation and reliably appends transcripts.
@@ -109,10 +113,6 @@ Voice input in the Shepherd auto-reply and Cron creation screens now uses the mo
 ### v1.3.11 — 2026-04-20
 
 Old, inactive order records are automatically archived for a cleaner admin view.
-
-### v1.3.10 — 2026-04-20
-
-The app and website now speak seven languages, and the documentation has been updated with clearer, more accurate guidance.
 
 [View all changelogs →](changelogs/)
 
