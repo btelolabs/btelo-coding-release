@@ -102,6 +102,10 @@ vibe-remote --headless --connector myconnector --password mypassword
 
 ## Changelog
 
+### v1.3.15 — 2026-04-25
+
+Smoother chat during long AI replies, plus a friendlier homepage install hint.
+
 ### v1.3.14 — 2026-04-24
 
 Smarter provider controls, Mac install path, and a more flexible Resume by ID flow.
@@ -109,10 +113,6 @@ Smarter provider controls, Mac install path, and a more flexible Resume by ID fl
 ### v1.3.13 — 2026-04-21
 
 New outgoing logs panel and quality improvements across sessions and connectivity.
-
-### v1.3.12 — 2026-04-20
-
-Voice input in the Shepherd auto-reply and Cron creation screens now uses the modern waveform animation and reliably appends transcripts.
 
 [View all changelogs →](changelogs/)
 
