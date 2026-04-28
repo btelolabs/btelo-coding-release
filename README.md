@@ -102,6 +102,10 @@ vibe-remote --headless --connector myconnector --password mypassword
 
 ## Changelog
 
+### v1.3.16 — 2026-04-28
+
+Hands-free Listening Mode for voice coding, plus mid-turn recovery so you don't lose AI replies when you switch apps or lose signal.
+
 ### v1.3.15 — 2026-04-25
 
 Smoother chat during long AI replies, plus a friendlier homepage install hint.
@@ -109,10 +113,6 @@ Smoother chat during long AI replies, plus a friendlier homepage install hint.
 ### v1.3.14 — 2026-04-24
 
 Smarter provider controls, Mac install path, and a more flexible Resume by ID flow.
-
-### v1.3.13 — 2026-04-21
-
-New outgoing logs panel and quality improvements across sessions and connectivity.
 
 [View all changelogs →](changelogs/)
 
