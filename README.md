@@ -102,6 +102,10 @@ vibe-remote --headless --connector myconnector --password mypassword
 
 ## Changelog
 
+### v1.3.17 — 2026-04-29
+
+Fixes for first-message hangs (image + text) and the unclickable close button on the image preview when running on Mac.
+
 ### v1.3.16 — 2026-04-28
 
 Hands-free Listening Mode for voice coding, plus mid-turn recovery so you don't lose AI replies when you switch apps or lose signal.
@@ -109,10 +113,6 @@ Hands-free Listening Mode for voice coding, plus mid-turn recovery so you don't 
 ### v1.3.15 — 2026-04-25
 
 Smoother chat during long AI replies, plus a friendlier homepage install hint.
-
-### v1.3.14 — 2026-04-24
-
-Smarter provider controls, Mac install path, and a more flexible Resume by ID flow.
 
 [View all changelogs →](changelogs/)
 
