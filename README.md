@@ -102,6 +102,10 @@ vibe-remote --headless --connector myconnector --password mypassword
 
 ## Changelog
 
+### v1.3.20 — 2026-05-01
+
+Notification overhaul — APNs is now the single source of completion sound (with your selected ringtone), Dynamic Island stays silent to avoid double-ringing, and an optional toggle controls whether completed sessions auto-expand the Dynamic Island.
+
 ### v1.3.19 — 2026-04-30
 
 Stop Session now waits for the AI to fully shut down so resuming on another machine sees the latest turn — plus a small "Stopping…" indicator and a fix for the screen freezing on the streaming partial.
@@ -109,10 +113,6 @@ Stop Session now waits for the AI to fully shut down so resuming on another mach
 ### v1.3.18 — 2026-04-29
 
 Listening mode reliability — smarter silence detection, mic survives long pauses, waveform stays alive while the AI replies.
-
-### v1.3.17 — 2026-04-29
-
-Fixes for first-message hangs (image + text) and the unclickable close button on the image preview when running on Mac.
 
 [View all changelogs →](changelogs/)
 
