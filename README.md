@@ -102,6 +102,10 @@ vibe-remote --headless --connector myconnector --password mypassword
 
 ## Changelog
 
+### v1.3.22 — 2026-05-03
+
+Codex trusted sessions now avoid unnecessary approval prompts and keep permissions consistent when resuming work.
+
 ### v1.3.21 — 2026-05-02
 
 Codex sessions can now handle approval prompts more reliably, and the chat input stays usable with long pasted messages.
@@ -109,10 +113,6 @@ Codex sessions can now handle approval prompts more reliably, and the chat input
 ### v1.3.20 — 2026-05-01
 
 Notification overhaul — APNs is now the single source of completion sound (with your selected ringtone), Dynamic Island stays silent to avoid double-ringing, and an optional toggle controls whether completed sessions auto-expand the Dynamic Island.
-
-### v1.3.19 — 2026-04-30
-
-Stop Session now waits for the AI to fully shut down so resuming on another machine sees the latest turn — plus a small "Stopping…" indicator and a fix for the screen freezing on the streaming partial.
 
 [View all changelogs →](changelogs/)
 
