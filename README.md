@@ -102,6 +102,10 @@ vibe-remote --headless --connector myconnector --password mypassword
 
 ## Changelog
 
+### v1.4.0 — 2026-05-03
+
+Agent chats now show clearer live activity, queued follow-ups, and images from the connected Mac.
+
 ### v1.3.22 — 2026-05-03
 
 Codex trusted sessions now avoid unnecessary approval prompts and keep permissions consistent when resuming work.
@@ -109,10 +113,6 @@ Codex trusted sessions now avoid unnecessary approval prompts and keep permissio
 ### v1.3.21 — 2026-05-02
 
 Codex sessions can now handle approval prompts more reliably, and the chat input stays usable with long pasted messages.
-
-### v1.3.20 — 2026-05-01
-
-Notification overhaul — APNs is now the single source of completion sound (with your selected ringtone), Dynamic Island stays silent to avoid double-ringing, and an optional toggle controls whether completed sessions auto-expand the Dynamic Island.
 
 [View all changelogs →](changelogs/)
 
