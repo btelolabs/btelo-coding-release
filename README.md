@@ -102,6 +102,10 @@ vibe-remote --headless --connector myconnector --password mypassword
 
 ## Changelog
 
+### v1.4.1 — 2026-05-06
+
+The in-app browser now handles the iOS keyboard more reliably.
+
 ### v1.4.0 — 2026-05-03
 
 Agent chats now show clearer live activity, queued follow-ups, and images from the connected Mac.
@@ -109,10 +113,6 @@ Agent chats now show clearer live activity, queued follow-ups, and images from t
 ### v1.3.22 — 2026-05-03
 
 Codex trusted sessions now avoid unnecessary approval prompts and keep permissions consistent when resuming work.
-
-### v1.3.21 — 2026-05-02
-
-Codex sessions can now handle approval prompts more reliably, and the chat input stays usable with long pasted messages.
 
 [View all changelogs →](changelogs/)
 
