@@ -102,6 +102,10 @@ vibe-remote --headless --connector myconnector --password mypassword
 
 ## Changelog
 
+### v1.4.3 — 2026-05-12
+
+Improved relay switching reliability and connection visibility.
+
 ### v1.4.2 — 2026-05-07
 
 Session streaming, reconnect behavior, and relay permissions are more reliable.
@@ -109,10 +113,6 @@ Session streaming, reconnect behavior, and relay permissions are more reliable.
 ### v1.4.1 — 2026-05-06
 
 The in-app browser now handles the iOS keyboard more reliably.
-
-### v1.4.0 — 2026-05-03
-
-Agent chats now show clearer live activity, queued follow-ups, and images from the connected Mac.
 
 [View all changelogs →](changelogs/)
 
