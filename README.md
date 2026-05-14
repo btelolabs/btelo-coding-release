@@ -102,6 +102,10 @@ vibe-remote --headless --connector myconnector --password mypassword
 
 ## Changelog
 
+### v1.4.6 — 2026-05-13
+
+Improved session recovery and daily window reliability.
+
 ### v1.4.5 — 2026-05-13
 
 Fixed free daily usage windows and improved session loading states.
@@ -109,10 +113,6 @@ Fixed free daily usage windows and improved session loading states.
 ### v1.4.4 — 2026-05-12
 
 Improved relay switching reliability and Auto LAN recovery.
-
-### v1.4.3 — 2026-05-12
-
-Improved relay switching reliability and connection visibility.
 
 [View all changelogs →](changelogs/)
 
