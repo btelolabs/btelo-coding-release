@@ -102,6 +102,10 @@ vibe-remote --headless --connector myconnector --password mypassword
 
 ## Changelog
 
+### v1.4.8 — 2026-05-20
+
+Skill insertion now respects full-path preferences in session input.
+
 ### v1.4.7 — 2026-05-15
 
 Improved session titles in chat and browse lists.
@@ -109,10 +113,6 @@ Improved session titles in chat and browse lists.
 ### v1.4.6 — 2026-05-13
 
 Improved session recovery and daily window reliability.
-
-### v1.4.5 — 2026-05-13
-
-Fixed free daily usage windows and improved session loading states.
 
 [View all changelogs →](changelogs/)
 
