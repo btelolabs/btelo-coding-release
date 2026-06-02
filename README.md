@@ -102,6 +102,10 @@ vibe-remote --headless --connector myconnector --password mypassword
 
 ## Changelog
 
+### v1.4.10 — 2026-06-02
+
+Behind-the-scenes reliability improvements.
+
 ### v1.4.9 — 2026-05-22
 
 Improves completion alerts, floating browser navigation, and admin usage reporting.
@@ -109,10 +113,6 @@ Improves completion alerts, floating browser navigation, and admin usage reporti
 ### v1.4.8 — 2026-05-20
 
 Skill insertion now respects full-path preferences in session input.
-
-### v1.4.7 — 2026-05-15
-
-Improved session titles in chat and browse lists.
 
 [View all changelogs →](changelogs/)
 
