@@ -102,6 +102,10 @@ vibe-remote --headless --connector myconnector --password mypassword
 
 ## Changelog
 
+### v1.4.12 — 2026-06-03
+
+See images from your sessions right in the chat.
+
 ### v1.4.11 — 2026-06-02
 
 Stability fixes for the assistant.
@@ -109,10 +113,6 @@ Stability fixes for the assistant.
 ### v1.4.10 — 2026-06-02
 
 Behind-the-scenes reliability improvements.
-
-### v1.4.9 — 2026-05-22
-
-Improves completion alerts, floating browser navigation, and admin usage reporting.
 
 [View all changelogs →](changelogs/)
 
