@@ -102,6 +102,10 @@ vibe-remote --headless --connector myconnector --password mypassword
 
 ## Changelog
 
+### v1.4.14 — 2026-06-06
+
+Windows file browsing across drives, recent repos on Windows, and a fix for a long-chat hang.
+
 ### v1.4.13 — 2026-06-04
 
 Fixes chat message ordering so replies and follow-up messages always appear in the right place.
@@ -109,10 +113,6 @@ Fixes chat message ordering so replies and follow-up messages always appear in t
 ### v1.4.12 — 2026-06-03
 
 See images from your sessions right in the chat.
-
-### v1.4.11 — 2026-06-02
-
-Stability fixes for the assistant.
 
 [View all changelogs →](changelogs/)
 
