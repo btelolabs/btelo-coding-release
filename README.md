@@ -102,6 +102,10 @@ vibe-remote --headless --connector myconnector --password mypassword
 
 ## Changelog
 
+### v1.4.15 — 2026-06-07
+
+Windows app updates now work even while the app is running.
+
 ### v1.4.14 — 2026-06-06
 
 Windows file browsing across drives, recent repos on Windows, and a fix for a long-chat hang.
@@ -109,10 +113,6 @@ Windows file browsing across drives, recent repos on Windows, and a fix for a lo
 ### v1.4.13 — 2026-06-04
 
 Fixes chat message ordering so replies and follow-up messages always appear in the right place.
-
-### v1.4.12 — 2026-06-03
-
-See images from your sessions right in the chat.
 
 [View all changelogs →](changelogs/)
 
