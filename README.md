@@ -102,6 +102,10 @@ vibe-remote --headless --connector myconnector --password mypassword
 
 ## Changelog
 
+### v1.5.1 — 2026-06-08
+
+Completion sounds when a session finishes, plus website and onboarding polish.
+
 ### v1.5.0 — 2026-06-08
 
 A full desktop app for Mac and Windows, the new Btelo Agent, and a faster way to get connected.
@@ -109,10 +113,6 @@ A full desktop app for Mac and Windows, the new Btelo Agent, and a faster way to
 ### v1.4.16 — 2026-06-07
 
 Interactive Claude sessions now work on Linux and Windows (WSL), plus a simpler one-command install.
-
-### v1.4.15 — 2026-06-07
-
-Windows app updates now work even while the app is running.
 
 [View all changelogs →](changelogs/)
 
