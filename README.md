@@ -102,6 +102,10 @@ vibe-remote --headless --connector myconnector --password mypassword
 
 ## Changelog
 
+### v1.5.5 — 2026-06-09
+
+Desktop message queue, a lighter cleaner look for tool cards and tables, and tidier updates that no longer leave an old copy behind.
+
 ### v1.5.4 — 2026-06-09
 
 A faster, friendlier directory picker on the desktop app — editable path bar, drive switcher, instant New session, and a Back button.
@@ -109,10 +113,6 @@ A faster, friendlier directory picker on the desktop app — editable path bar, 
 ### v1.5.3 — 2026-06-09
 
 The desktop app icon now sits at the right size in the dock, plus instant in-place language switching in Settings.
-
-### v1.5.2 — 2026-06-08
-
-See your version and check for updates from Settings, plus a docs refresh and logo fix.
 
 [View all changelogs →](changelogs/)
 
