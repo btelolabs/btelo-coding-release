@@ -102,6 +102,10 @@ vibe-remote --headless --connector myconnector --password mypassword
 
 ## Changelog
 
+### v1.5.6 — 2026-06-09
+
+Links in replies are now clickable on desktop and open in your default browser.
+
 ### v1.5.5 — 2026-06-09
 
 Desktop message queue, a lighter cleaner look for tool cards and tables, and tidier updates that no longer leave an old copy behind.
@@ -109,10 +113,6 @@ Desktop message queue, a lighter cleaner look for tool cards and tables, and tid
 ### v1.5.4 — 2026-06-09
 
 A faster, friendlier directory picker on the desktop app — editable path bar, drive switcher, instant New session, and a Back button.
-
-### v1.5.3 — 2026-06-09
-
-The desktop app icon now sits at the right size in the dock, plus instant in-place language switching in Settings.
 
 [View all changelogs →](changelogs/)
 
