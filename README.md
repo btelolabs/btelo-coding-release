@@ -102,6 +102,10 @@ vibe-remote --headless --connector myconnector --password mypassword
 
 ## Changelog
 
+### v1.5.7 — 2026-06-10
+
+Fixes an interrupted-turn error with the bundled agent, surfaces clearer reasons when a request fails, and corrects several Windows-only path and reliability issues.
+
 ### v1.5.6 — 2026-06-09
 
 Links in replies are now clickable on desktop and open in your default browser.
@@ -109,10 +113,6 @@ Links in replies are now clickable on desktop and open in your default browser.
 ### v1.5.5 — 2026-06-09
 
 Desktop message queue, a lighter cleaner look for tool cards and tables, and tidier updates that no longer leave an old copy behind.
-
-### v1.5.4 — 2026-06-09
-
-A faster, friendlier directory picker on the desktop app — editable path bar, drive switcher, instant New session, and a Back button.
 
 [View all changelogs →](changelogs/)
 
