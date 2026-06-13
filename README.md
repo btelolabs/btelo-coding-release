@@ -102,6 +102,10 @@ vibe-remote --headless --connector myconnector --password mypassword
 
 ## Changelog
 
+### v1.5.8 — 2026-06-13
+
+Fixes image recognition with the bundled agent — pictures you send to a multimodal model are now actually delivered to it instead of only being referenced by file path.
+
 ### v1.5.7 — 2026-06-10
 
 Fixes an interrupted-turn error with the bundled agent, surfaces clearer reasons when a request fails, and corrects several Windows-only path and reliability issues.
@@ -109,10 +113,6 @@ Fixes an interrupted-turn error with the bundled agent, surfaces clearer reasons
 ### v1.5.6 — 2026-06-09
 
 Links in replies are now clickable on desktop and open in your default browser.
-
-### v1.5.5 — 2026-06-09
-
-Desktop message queue, a lighter cleaner look for tool cards and tables, and tidier updates that no longer leave an old copy behind.
 
 [View all changelogs →](changelogs/)
 
