@@ -102,6 +102,10 @@ vibe-remote --headless --connector myconnector --password mypassword
 
 ## Changelog
 
+### v1.5.9 — 2026-06-14
+
+Desktop chats no longer freeze mid-reply during long conversations, a new context-usage ring with one-click Compact keeps sessions healthy, and the bundled agent now shows a clear message instead of going silent when a request fails.
+
 ### v1.5.8 — 2026-06-13
 
 Fixes image recognition with the bundled agent — pictures you send to a multimodal model are now actually delivered to it instead of only being referenced by file path.
@@ -109,10 +113,6 @@ Fixes image recognition with the bundled agent — pictures you send to a multim
 ### v1.5.7 — 2026-06-10
 
 Fixes an interrupted-turn error with the bundled agent, surfaces clearer reasons when a request fails, and corrects several Windows-only path and reliability issues.
-
-### v1.5.6 — 2026-06-09
-
-Links in replies are now clickable on desktop and open in your default browser.
 
 [View all changelogs →](changelogs/)
 
